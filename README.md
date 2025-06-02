@@ -1,16 +1,10 @@
-## Hi there 👋
+## Hi there (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
+
+###  I'm brazilian Computer Science student, trying to learn about code, programming and game development
+
+
+
+
 
 <!--
-**Nninguemm/Nninguemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... dewsfwef
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
